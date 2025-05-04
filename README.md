@@ -34,7 +34,7 @@
 <div class="languages-frameworks-tools">
   <h3>Languages, Frameworks, and Tools</h3>
   <div class="skills-grid">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,figma,git,github,html,css,js,typescript,c,cpp,vscode" alt="skills logos">
+    <img src="https://skillicons.dev/icons?i=react,expressjs,nodejs,mongodb,nextjs,figma,git,github,html,css,js,typescript,c,cpp,vscode" alt="skills logos">
   </div>
 </div>
 
